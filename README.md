@@ -1,8 +1,8 @@
-# 🌟 My Web Development Portfolio & Project Showcase 🌟
+# My Web Development Portfolio & Project Showcase 
 
 Welcome to my central repository for all things web development! This collection features a variety of projects, ranging from sleek front-end designs using vanilla HTML/CSS/JS to fully functional, database-driven applications.
 
-### 💡 What's Inside?
+### What's Inside?
 
 This repository serves as a live portfolio, demonstrating my capabilities across the full development lifecycle, including:
 
@@ -11,7 +11,7 @@ This repository serves as a live portfolio, demonstrating my capabilities across
 * **Vanilla JavaScript Interactivity:** Examples of complex logic and DOM manipulation built purely with plain JavaScript, without relying on external libraries.
 * **Responsive Design:** Every project is optimized to look fantastic on any device, from mobile phones to large desktop screens.
 
-### 🛠️ Key Technologies Used
+### Key Technologies Used
 
 | Category | Technologies |
 | :--- | :--- |
@@ -20,7 +20,7 @@ This repository serves as a live portfolio, demonstrating my capabilities across
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
 | **Styling** | Custom CSS, CSS Gradients, Modern Layout Techniques |
 
-### 📂 Structure
+### Structure
 
 Each sub-directory in this repository is a separate, self-contained project:
 
