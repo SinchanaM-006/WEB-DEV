@@ -1,8 +1,15 @@
-# 🌟MongoMessenger 💬
+# MongoMessenger 
 
 This is a full-stack mini-chat application built to demonstrate proficiency in core web technologies and modern UI/UX design. It features a complete CRUD (Create, Read, Update, Delete) interface for managing messages, backed by a robust MongoDB database.
 
-### ✨ Key Features
+# Preview 
+
+![MongoMessenger Application Screenshot](Preview/HomePage.png)
+
+![MongoMessenger Application Screenshot](Preview/ChatPage.png)
+
+
+### Key Features
 
 * **Vibrant, Modern UI:** A visually striking interface built with pure HTML and CSS techniques.
 * **Full CRUD Implementation:**
@@ -12,7 +19,7 @@ This is a full-stack mini-chat application built to demonstrate proficiency in c
     * **D**elete chats via a secure, JavaScript-confirmed POST request.
 * **Reproducible Environment:** Utilizes `package.json` and `package-lock.json` for consistent deployment and dependency management.
 
-### 🛠️ Technology Stack
+### Technology Stack
 
 | Component | Technology | Rationale |
 | :--- | :--- | :--- |
@@ -21,5 +28,3 @@ This is a full-stack mini-chat application built to demonstrate proficiency in c
 | **Templating** | **EJS (Embedded JS)** | Used for dynamic rendering of server-side data in the HTML structure. |
 | **Frontend** | **HTML5, CSS3, JavaScript (ES6+)** | Pure client-side code used for presentation, styling, and interactive delete handling. |
 
-![MongoMessenger Application Screenshot](Preview/ChatPage.png)
-![MongoMessenger Application Screenshot](Preview/HomePage.png)
