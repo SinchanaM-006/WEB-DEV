@@ -20,3 +20,6 @@ This is a full-stack mini-chat application built to demonstrate proficiency in c
 | **Database** | **MongoDB** & **Mongoose** | A flexible NoSQL database and an ODM for efficient data modeling and persistence. |
 | **Templating** | **EJS (Embedded JS)** | Used for dynamic rendering of server-side data in the HTML structure. |
 | **Frontend** | **HTML5, CSS3, JavaScript (ES6+)** | Pure client-side code used for presentation, styling, and interactive delete handling. |
+
+![MongoMessenger Application Screenshot](Preview/ChatPage.png)
+![MongoMessenger Application Screenshot](Preview/HomePage.png)
