@@ -24,6 +24,6 @@ This repository serves as a live portfolio, demonstrating my capabilities across
 
 Each sub-directory in this repository is a separate, self-contained project:
 
-* `/Mini-Chat-App`: The stylish, MongoDB-backed chat application.
+* `/MongoMessenger`: The stylish, MongoDB-backed chat application.
 * ...and more projects to come!
 
