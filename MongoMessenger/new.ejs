@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini-Chat | New Chat</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Create a Sparkling New Chat ✨</h1>
+
+        <form method="POST" action="/chats">
+            <div class="form-group">
+                <label for="sender">Your Name (From):</label>
+                <input type="text" id="sender" name="sender" placeholder="e.g., Alice" required>
+            </div>
+
+            <div class="form-group">
+                <label for="reciver">Recipient's Name (To):</label>
+                <input type="text" id="reciver" name="reciver" placeholder="e.g., Bob" required>
+            </div>
+
+            <div class="form-group">
+                <label for="msg">Message:</label>
+                <textarea id="msg" name="msg" placeholder="Type your flamboyant message here..." required></textarea>
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="btn btn-primary">Send Message 🚀</button>
+                <a href="/chats" class="btn btn-secondary">Go Back</a>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
